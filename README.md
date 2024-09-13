@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, machine learning, AI, and creating efficient data workflows.
 - 🌱 I’m currently learning advanced machine learning techniques and exploring cloud technologies like Azure.
 - 💞️ I’m looking to collaborate on data analytics, AI projects, and building data pipelines for innovative solutions.
-- 📫 How to [reach me](mailto:hetudp@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/hetal-prajapati/)
+- 📫 How to reach me [hetudp@gmail.com] or via [LinkedIn](https://www.linkedin.com/in/hetal-prajapati/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and exploring new coding challenges!
 
