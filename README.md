@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hetal Prajapati,
+# 👋 Hi, I’m Hetal Prajapati
 
 - I'm currently working as a **Data Analyst** and Software Developer passionate about leveraging data to drive impactful insights.
 - 👀 I’m interested in data science, machine learning, AI, and creating efficient data workflows.
